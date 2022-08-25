@@ -1,6 +1,6 @@
 # Fibonacci Generator
 
-A Fibonacci number sequence is defined mathematically by its recurrence relationship
+Fibonacci numbers, commonly denoted Fn , form a sequence
 
 - Fn = Fn-1 + Fn-2
 
