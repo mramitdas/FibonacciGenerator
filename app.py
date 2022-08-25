@@ -5,7 +5,7 @@ def fabonacci(n):
         f = [0, 1]
         for i in range(2, n + 1):
             f.append(f[i - 1] + f[i - 2])
-        return f
+        return " ".join(map(str, f))
 
 
 if __name__ == "__main__":
